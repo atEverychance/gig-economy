@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📊 View Project Board
+    url: https://github.com/atEverychance/gig-economy/projects
+    about: View and manage gig workflow on the project board
+  - name: 📚 Scraper Documentation
+    url: https://github.com/atEverychance/gig-economy/blob/main/docs/SCRAPER.md
+    about: Documentation for the gig scraper
